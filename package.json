@@ -2,7 +2,7 @@
   "name": "paint",
   "version": "1.0.0",
   "description": "vanillaJS made by paint tool",
-  "main": "main.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx parcel index.html --open",

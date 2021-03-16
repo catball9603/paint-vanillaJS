@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="4436fcf3d45d955566840b484ea6d7e4">
+  <link rel="stylesheet" href="16b0f847cca418498e8aa28bc365a23f">
+  <title>Canvas</title>
+</head>
+
+<body>
+  <canvas id="jsCanvas" class="canvas"></canvas>
+  <div class="controler">
+    <div class="range">
+      <input type="range" id="jsRanges" min="0.1" max="10" value="5" step="0.1">
+    </div>
+    <button id="jsMode">Fill</button>
+    <button id="jsSave">Save</button>
+  </div>
+  <div id="jsColors" class="color_pallet">
+    <div class="color jsColor" style="3c3df186c8ef70d96d1c78d4199c2d7e"></div>
+    <div class="color jsColor" style="65a5d69b7cdd3d2c93b896a6a588da50"></div>
+    <div class="color jsColor" style="1d365b61b5c76784d95a0c2c5789694b"></div>
+    <div class="color jsColor" style="0514e2443e31b35e47259fd8d11ed446"></div>
+    <div class="color jsColor" style="623cdd07620c84fbb6a050a7ed580763"></div>
+    <div class="color jsColor" style="df2ea75889bdda52d4a76bca345195ed"></div>
+    <div class="color jsColor" style="1ae7d77b4aa86e5600f62ebd90fcf129"></div>
+    <div class="color jsColor" style="0bda8b3103712b9771b138af66612dcb"></div>
+    <div class="color jsColor" style="4132c36ba733b4cf3c3dc92c12b805fb"></div>
+    <div class="color jsColor" style="4721ffb76856dc84b62e2e6b54d0b107"></div>
+  </div>
+  <script src="0f2e768f0daec29e201b85303ab72f4b"></script>
+</body>
+
+</html>

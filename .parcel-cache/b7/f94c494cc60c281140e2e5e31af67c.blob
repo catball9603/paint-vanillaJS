@@ -1,0 +1,67 @@
+body {
+  background: #f6f9fc;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.canvas {
+  margin-top: 50px;
+  width: 1130px;
+  height: 700px;
+  background: #fff;
+  border-radius: 15px;
+  box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+  ;
+}
+
+.controler {
+  margin: 30px 0 15px 0;
+  transition: all 0.5s ease;
+}
+
+.controler .range {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.controler button {
+  all: unset;
+  cursor: pointer;
+  background-color: #fff;
+  padding: 5px 0;
+  width: 100px;
+  text-align: center;
+  border-radius: 4px;
+  box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 2px 5px rgba(0, 0, 0, 0.08);
+  border-bottom: 5px solid #63e6be;
+  font-weight: 600;
+  letter-spacing: 2px;
+  font-size: 17px;
+  margin: 0 5px;
+  margin-bottom: 10px;
+}
+
+.controler button:hover {
+  border-bottom: 5px solid #12b886;
+}
+
+.controler button:active {
+  transform: scale(0.97);
+}
+
+.color_pallet {
+  display: flex;
+}
+
+.color_pallet .color {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 2px 5px rgba(0, 0, 0, 0.08);
+}
+
+.color_pallet .color:not(:last-child) {
+  margin-right: 10px;
+}
