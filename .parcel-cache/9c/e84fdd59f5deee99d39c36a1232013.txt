@@ -11,7 +11,7 @@
 73C:\Users\hokma\Documents\vanillaJS\paint.js\node_modules\sax\package.json131426271930000000 0
 105C:\Users\hokma\Documents\vanillaJS\paint.js\node_modules\to-regex\node_modules\is-extendable\package.json132593856987850000 0
 95C:\Users\hokma\Documents\vanillaJS\paint.js\node_modules\postcss-minify-selectors\dist\index.js121436361000000000 0
-56C:\Users\hokma\Documents\vanillaJS\paint.js\package.json132603355179047785 0
+56C:\Users\hokma\Documents\vanillaJS\paint.js\package.json132603360832464217 0
 108C:\Users\hokma\Documents\vanillaJS\paint.js\node_modules\postcss-modules-values\node_modules\postcss\LICENSE121436361000000000 0
 93C:\Users\hokma\Documents\vanillaJS\paint.js\node_modules\send\node_modules\debug\CHANGELOG.md131505607260000000 0
 118C:\Users\hokma\Documents\vanillaJS\paint.js\node_modules\scss-tokenizer\node_modules\source-map\lib\source-map\util.js130812878400000000 0
