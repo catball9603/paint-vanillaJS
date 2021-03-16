@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/index.HASH_REF_64b8e6c496016beb2600cafcf97e9c74.css">
+  <link rel="stylesheet" href="/index.HASH_REF_d41ac7b8bb091472d0199314d10797b7.css">
+  <title>Canvas</title>
+</head>
+
+<body>
+  <canvas id="jsCanvas" class="canvas"></canvas>
+  <div class="controler">
+    <div class="range">
+      <input type="range" id="jsRanges" min="0.1" max="10" value="5" step="0.1">
+    </div>
+    <button id="jsMode">Fill</button>
+    <button id="jsSave">Save</button>
+  </div>
+  <div id="jsColors" class="color_pallet">
+    <div class="color jsColor" style="background-color: #2c2c2c
+"></div>
+    <div class="color jsColor" style="background-color: #fff
+"></div>
+    <div class="color jsColor" style="background-color: #ffd43b
+"></div>
+    <div class="color jsColor" style="background-color: #fd7e14
+"></div>
+    <div class="color jsColor" style="background-color: #c92a2a
+"></div>
+    <div class="color jsColor" style="background-color: #5c940d
+"></div>
+    <div class="color jsColor" style="background-color: #0b7285
+"></div>
+    <div class="color jsColor" style="background-color: #1864ab
+"></div>
+    <div class="color jsColor" style="background-color: #862e9c
+"></div>
+    <div class="color jsColor" style="background-color: #5f3dc4
+"></div>
+  </div>
+  <script src="/index.HASH_REF_f708cf535930f2c26076f484fd92a775.js"></script>
+</body>
+
+</html>
